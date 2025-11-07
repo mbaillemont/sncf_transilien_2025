@@ -1,7 +1,5 @@
 # SNCF Transilien 2025 Data Challenge
 
-Ce notebook présente la structure initiale pour le défi data SNCF Transilien 2025. 
-
 ## Introduction
 
 **Objectif du défi** : Prévision en temps réel du temps d'attente à quai. Proposé par SNCF-Transilien 
